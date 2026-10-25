@@ -76,3 +76,4 @@ This repository does **not** provide an official support contract, security-upda
 ## Disclaimer
 
 This is an independent, unofficial port. It is not affiliated with or endorsed by the PHP project, AlmaLinux OS Foundation, or Red Hat. All use is at your own risk.
+
